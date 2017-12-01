@@ -29,3 +29,5 @@ to open wallet in local port use this command
 walletd.exe config configs/imobicoin.conf -local
 
 ```
+
+after this command you will get access from 127.0.0.1:36151/json_rpc
